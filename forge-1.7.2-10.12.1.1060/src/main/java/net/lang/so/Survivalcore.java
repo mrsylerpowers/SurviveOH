@@ -17,7 +17,7 @@ import cpw.mods.fml.common.registry.GameRegistry;
 @Mod(modid="Survivalcore", name="Survival Overhaul", version="1.0 Alpha")
 
 public class Survivalcore {
-
+ //edit test 1
         // The instance of mod
         @Instance(value = "Survivalcore")
         public static Survivalcore instance;
